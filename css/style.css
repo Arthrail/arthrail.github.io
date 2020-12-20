@@ -1,0 +1,53 @@
+/* Folha de estilos de Rebel Heart Studio
+Contém as classes utilizadas para o efeito parallax da página assim como outros elementos decorativos
+
+*/
+
+
+.header-site{
+  background-image: url("../img/neon-ring-cover.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #FFFFFF;
+  padding-top: 300px;
+  padding-bottom: 300px;
+
+}
+.img-site{
+  background-image: url("../img/North_Aurora_Universe_Sky_Abstract_HD-cover.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #FFFFFF;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.content-site{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.thumbnail-profile{
+  border-radius: 50%;
+  height: 20%;
+  width: 20%;
+}
+.thumbnail1{
+
+  height: 100%;
+  width: 100%;
+
+
+}
+
+.media-icons{
+  height: 50px;
+  width: 50px;
+}
+
+.img-thumbnail{
+  align-content: center;
+  widht:
+}
